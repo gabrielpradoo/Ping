@@ -1,5 +1,6 @@
 # Frontend Mentor - Ping coming soon page
 
+![Alt text](./images/desktop-design.jpg?raw=true "Optional Title")
 
 A challenge from the Frontend Mentor
 
